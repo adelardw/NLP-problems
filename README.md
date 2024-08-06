@@ -4,6 +4,6 @@ dataset link: https://www.kaggle.com/datasets/devanshusingh/machine-translation-
 ### TEXT GENERATION
   (for future)
 ### CLASSIFICATION
-look at nlp 4 folder for example
+look at classification folder
 
   
